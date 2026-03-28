@@ -48,9 +48,7 @@
 
 <div align="center">
 
-<a href="https://github.com/Eugine101">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eugine101&repo=clean-stream&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-</a>
+
 
 </div>
 
