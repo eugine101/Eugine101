@@ -12,7 +12,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/koyo-onyango-9910463b2)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onkoyo10@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Eugine101&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/Eugine101)
 
